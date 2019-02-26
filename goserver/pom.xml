@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.tdde06</groupId>
-  <artifactId>lab2</artifactId>
+  <artifactId>go-server</artifactId>
   <version>0.1.0</version>
   <packaging>mvn-golang</packaging>
 
