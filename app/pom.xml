@@ -111,6 +111,23 @@
           </execution>
         </executions>
       </plugin>
+      <!--
+      <plugin>
+        <groupId>com.mastega.plugin</groupId>
+        <artifactId>hello-maven-plugin</artifactId>
+        <version>0.1-SNAPSHOT</version>
+        <configuration>
+          <filename>${basedir}${file.separator}text-file.txt</filename>
+        </configuration>
+        <executions>
+          <execution>
+            <goals>
+              <goal>read-file</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+    -->
     </plugins>
   </build>
 
